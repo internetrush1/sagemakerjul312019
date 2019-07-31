@@ -15,10 +15,10 @@ Forecasting data sets from Kaggle: -
 
 Includes:
 
-* Incoming Solar energy data per site from 1994-2007
-* GEFS training data
-* GEFS elevation data
-* Each station's latitude, longitude and elevation.
+* Incoming Solar energy data per site from 1994-2007 TODO LINK)
+* GEFS training data (TODO LINK)
+* GEFS elevation data (TODO LINK)
+* Each station's latitude, longitude and elevation. (TODO LINK)
 
 # Modeling Strategy
 
