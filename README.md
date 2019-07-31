@@ -11,14 +11,14 @@ To predict the total daily incoming solar energy at 98 Oklahoma Mesonet sites
 
 
 # Datasets
-Forecasting data sets from Kaggle: - 
+Forecasting data sets from Kaggle: - https://www.kaggle.com/c/3354/download-all
 
 Includes:
 
-* Incoming Solar energy data per site from 1994-2007 TODO LINK)
-* GEFS training data (TODO LINK)
-* GEFS elevation data (TODO LINK)
-* Each station's latitude, longitude and elevation. (TODO LINK)
+* Incoming Solar energy data per site from 1994-2007
+* GEFS training data
+* GEFS elevation data
+* Each station's latitude, longitude and elevation.
 
 # Modeling Strategy
 
