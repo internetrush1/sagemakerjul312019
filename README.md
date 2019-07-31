@@ -25,3 +25,7 @@ Includes:
 * Start with mw energy production data for each site
 * Link with weather data
 * Link with station elevation data
+
+#Stretch Goals
+
+Use the forecasting model to run forecasts on all 50 states to predict what the solar energy production would look like for each state. This will help in expansion of solar energy plants to the states and regions most suitable for solar energy production.
