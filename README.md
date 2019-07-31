@@ -1,8 +1,6 @@
-# sagemakerjul312019
-July312019 - Sagemaker project
-
 # Forecasting Model for Oklahoma
-
+sagemakerjul312019
+July312019 - Sagemaker project
 
 To predict the total daily incoming solar energy at 98 Oklahoma Mesonet sites
 
